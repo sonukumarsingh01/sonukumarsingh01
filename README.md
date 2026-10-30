@@ -48,7 +48,18 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 | [⭐ Starlent with e-commerce](https://github.com/sonukumarsingh01/starlent-openedx-ecommerce) | Starlent | A fully branded LMS and Studio with online course sales |
 | [🌏 SEARN training platform](https://github.com/sonukumarsingh01/searn-training-platform) | SEARN (WHO South-East Asia) | A multi-organisation, role-based training portal |
 
-**Personal projects:** [MuseTunes](https://github.com/sonukumarsingh01/MuseTunes) (Next.js + TypeScript) · [User-Management-App](https://github.com/sonukumarsingh01/User-Management-App) (React CRUD + auth) · [NewApp](https://github.com/sonukumarsingh01/NewApp) (React news app)
+## 📚 Learning projects
+
+Small projects I built while learning frontend development, before and alongside my professional work.
+
+| Project | What I practised |
+|---|---|
+| [MuseTunes](https://github.com/sonukumarsingh01/MuseTunes) | Next.js, TypeScript, Tailwind CSS, animated UI |
+| [User-Management-App](https://github.com/sonukumarsingh01/User-Management-App) | React, routing, authentication and CRUD with a REST API |
+| [NewApp](https://github.com/sonukumarsingh01/NewApp) | React, REST API, infinite scroll |
+| [ImageSearchingWebApp](https://github.com/sonukumarsingh01/ImageSearchingWebApp) | JavaScript, fetch API, image search |
+| [Digital-Agency](https://github.com/sonukumarsingh01/Digital-Agency) | HTML, CSS, responsive layout |
+| [Shoes-Sneakers-Website](https://github.com/sonukumarsingh01/Shoes-Sneakers-Website) | HTML, CSS, responsive layout |
 
 ## 🎓 Education
 
