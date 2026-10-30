@@ -16,8 +16,7 @@ Open edX LMS products for 4+ client platforms: **300+ pull requests across 35+ r
 
 | | What | How |
 |---|---|---|
-| 🤖 | **AI assistant in every Open edX app**: the complete UI and rendering system | React, Paragon, streamed JSON events, a fixed catalog of UI blocks (tables, forms, actions, progress), Markdown, RTL, 4 languages, Jest + RTL tests |
-| ✍️ | **AI Course Copilot in Studio**: authors build a course by chatting with AI, including an AI intro video | React, Redux, REST APIs, i18n |
+| 🤖 | **AI Assistant for LMS and Studio (CMS)**: a plug-and-play AI that helps learners understand, practise and plan, and helps course teams and admins with forum support and AI reports. Installs on any Open edX | React, Open edX plugin slots, streaming APIs, design tokens, 4 languages incl. right-to-left, Jest |
 | 🎥 | **Live classes inside the LMS**: schedule, join, record and track attendance without leaving the platform | React, Redux, Zoom integration |
 | 🏆 | **Gamification and subscriptions**: badges, points, leaderboard; subscription plans with multiple payment gateways | React, Redux, plugin slots |
 | 🎨 | **11 micro-frontends upgraded to Open edX Verawood**, all themed with shared design tokens | Paragon design tokens, SCSS, Tutor plugins |
