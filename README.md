@@ -41,7 +41,7 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 
 | Project (my work: showcase) | Client | What it shows |
 |---|---|---|
-| [🚀 TELS SaaS learning platform](https://github.com/sonukumarsingh01/tels-saas-learning-platform) | TitanEd | Complete custom UI of a subscription SaaS LMS: templates, AI Copilot, instructor dashboard |
+| [🚀 TELS SaaS learning platform](https://github.com/sonukumarsingh01/tels-saas-learning-platform) | TitanEd | Complete custom UI of a subscription SaaS LMS: templates, AI assistant, instructor dashboard |
 | [🤖 TELS AI for Open edX](https://github.com/sonukumarsingh01/tels-ai-openedx-assistant) | TitanEd | A plug-and-play AI assistant, with its UI and rendering system in every app |
 | [🎨 No-code design-token theming](https://github.com/sonukumarsingh01/openedx-design-token-theming) | TitanEd | Rebrand everything from the admin panel without code |
 | [🔬 VigyanShaala platform](https://github.com/sonukumarsingh01/vigyanshaala-openedx-platform) | VigyanShaala | A marketing website, Zoom live classes, a leaderboard and access control |
