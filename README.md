@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sonu Kumar 👋</h1>
-<h3 align="center">Software Engineer · React · TypeScript · Micro-Frontends · AI user interfaces</h3>
+<h3 align="center">Software Engineer · React · TypeScript · Micro-Frontends · Open Edx · AI user interfaces</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dr-sonu-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
