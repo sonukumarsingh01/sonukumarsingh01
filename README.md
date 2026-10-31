@@ -6,11 +6,10 @@
   <a href="mailto:drsonukumar001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I build learning platforms that people use every day, and the AI features inside them.
-I'm a Frontend Engineer at **[TitanEd](https://github.com/TitanEd)**, where I own the frontend of
-Open edX LMS products for 4+ client platforms: **300+ pull requests across 35+ repositories in 18 months.**
+I'm a Frontend Engineer at **[TitanEd](https://github.com/TitanEd)**, working with the product and backend teams on
+Open edX learning platforms and their AI features for 4+ client platforms: **300+ pull requests across 35+ repositories in 18 months.**
 
-## 🛠️ What I've built at work
+## 🛠️ What I work on at TitanEd
 
 > The code is private to TitanEd and its clients, so here's what each piece does and how it's built.
 
@@ -18,12 +17,12 @@ Open edX LMS products for 4+ client platforms: **300+ pull requests across 35+ r
 |---|---|---|
 | 🤖 | **AI Assistant for LMS and Studio (CMS)**: a plug-and-play AI that helps learners understand, practise and plan, and helps course teams and admins with forum support and AI reports. Installs on any Open edX | React, Open edX plugin slots, streaming APIs, design tokens, 4 languages incl. right-to-left, Jest |
 | 🎥 | **Live classes inside the LMS**: schedule, join, record and track attendance without leaving the platform | React, Redux, Zoom integration |
-| 🏆 | **Gamification and subscriptions**: badges, points, leaderboard; subscription plans with multiple payment gateways | React, Redux, plugin slots |
+| 🏆 | **Gamification and subscriptions**: badges, points, leaderboard; courses sold through e-commerce | React, Redux, plugin slots |
 | 🎨 | **11 micro-frontends upgraded to Open edX Verawood**, all themed with shared design tokens | Paragon design tokens, SCSS, Tutor plugins |
 | 🛡️ | **Role-based admin portal** for a regulatory-training platform | React, frontend-platform, role-aware routing |
 | 🧩 | **Shared React + TypeScript component library** used across 9 apps | TypeScript, SCSS, dynamic theming |
 
-**Principle I follow:** extend, don't fork. Everything above ships through Frontend Plugin Framework
+**How we work:** extend, don't fork. Everything above ships through Frontend Plugin Framework
 slots, Tutor plugins and design tokens, so clients upgrade Open edX without losing customisations.
 
 ## 🧰 Tech I use
@@ -37,12 +36,12 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 ## 📌 Featured projects
 
 > The source code of these products is private to TitanEd and its clients. Each repo below is a **project showcase**: the
-> business problem, what I delivered and how it was built.
+> business problem, my contribution and how it was built.
 
 | Project (my work: showcase) | Client | What it shows |
 |---|---|---|
-| [🚀 TELS SaaS learning platform](https://github.com/sonukumarsingh01/tels-saas-learning-platform) | TitanEd | Complete custom UI of a subscription SaaS LMS: templates, AI assistant, instructor dashboard |
-| [🤖 TELS AI for Open edX](https://github.com/sonukumarsingh01/tels-ai-openedx-assistant) | TitanEd | A plug-and-play AI assistant, with its UI and rendering system in every app |
+| [🚀 TELS SaaS learning platform](https://github.com/sonukumarsingh01/tels-saas-learning-platform) | TitanEd | Custom UI of a subscription SaaS LMS: templates, AI assistant, instructor dashboard |
+| [🤖 TELS AI for Open edX](https://github.com/sonukumarsingh01/tels-ai-openedx-assistant) | TitanEd | A plug-and-play AI assistant for LMS and Studio |
 | [🎨 No-code design-token theming](https://github.com/sonukumarsingh01/openedx-design-token-theming) | TitanEd | Rebrand everything from the admin panel without code |
 | [🔬 VigyanShaala platform](https://github.com/sonukumarsingh01/vigyanshaala-openedx-platform) | VigyanShaala | A marketing website, Zoom live classes, a leaderboard and access control |
 | [⭐ Starlent with e-commerce](https://github.com/sonukumarsingh01/starlent-openedx-ecommerce) | Starlent | A fully branded LMS and Studio with online course sales |
