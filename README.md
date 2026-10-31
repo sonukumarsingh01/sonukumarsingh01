@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Sonu Kumar 👋</h1>
-<h3 align="center">Software Engineer · React · TypeScript · Micro-Frontends · Open Edx · AI user interfaces</h3>
+<h3 align="center">Software Engineer · React · TypeScript · Micro-Frontends · Open edX · Generative & Agentic AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dr-sonu-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:drsonukumar001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I'm a Frontend Engineer at **[TitanEd](https://github.com/TitanEd)**, working with the product and backend teams on
+I'm a Software Engineer at **[TitanEd](https://github.com/TitanEd)**, working with the product and backend teams on
 Open edX learning platforms and their AI features for 4+ client platforms: **300+ pull requests across 35+ repositories in 18 months.**
 
 ## 🛠️ What I work on at TitanEd
@@ -27,11 +27,11 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 
 ## 🧰 Tech I use
 
-**Frontend:** React · TypeScript · JavaScript (ES6+) · Redux · Next.js · HTML5 · CSS3 / SCSS · Tailwind CSS · Paragon<br>
+**Frontend:** React · TypeScript · JavaScript (ES6+) · Redux · Next.js · HTML5 · CSS3 / SCSS · Tailwind CSS · Bootstrap · Paragon<br>
 **Testing & quality:** Jest · React Testing Library · ESLint · Sentry<br>
 **Platform & DevOps:** Open edX (Sumac → Teak → Verawood) · Tutor · Docker · Ubuntu Linux · Git / GitHub<br>
 **Backend basics:** Python · Django · REST APIs · MySQL · MongoDB<br>
-**AI:** LLM chat and streaming UIs · AI-assisted development (Claude Code, Cursor, Lovable)
+**AI:** Generative AI · Agentic AI · LLM chat and streaming UIs
 
 ## 📌 Featured projects
 
