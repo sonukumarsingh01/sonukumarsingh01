@@ -49,11 +49,9 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 
 ## 💼 Internship project
 
-**Pricing Tool**: during my internship at BluePi (Feb – Apr 2025) I worked on an internal pricing app for IT-services deals: a deals
+**[Pricing Tool](https://github.com/sonukumarsingh01/it-services-pricing-tool)**: during my internship at BluePi (Feb – Apr 2025) I worked on an internal pricing app for IT-services deals: a deals
 pipeline with status tracking, commercial estimates with cost, margin, blended rate and version history, a resource-loading
 planner, a role-based dashboard and Google sign-in. *Tech: Next.js 14, TypeScript, MUI, TanStack Table, React Hook Form, NextAuth.*
-
-> This was company work, so there is no public code or link.
 
 ## 📚 Learning projects
 
