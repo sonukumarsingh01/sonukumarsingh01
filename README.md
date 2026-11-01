@@ -47,6 +47,14 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 | [⭐ Starlent with e-commerce](https://github.com/sonukumarsingh01/starlent-openedx-ecommerce) | Starlent | A fully branded LMS and Studio with online course sales |
 | [🌏 SEARN training platform](https://github.com/sonukumarsingh01/searn-training-platform) | SEARN (WHO South-East Asia) | A multi-organisation, role-based training portal |
 
+## 💼 Internship project
+
+**Pricing Tool**: during my internship at BluePi (Feb – Apr 2025) I worked on an internal pricing app for IT-services deals: a deals
+pipeline with status tracking, commercial estimates with cost, margin, blended rate and version history, a resource-loading
+planner, a role-based dashboard and Google sign-in. *Tech: Next.js 14, TypeScript, MUI, TanStack Table, React Hook Form, NextAuth.*
+
+> This was company work, so there is no public code or link.
+
 ## 📚 Learning projects
 
 Small projects I built while learning frontend development, before and alongside my professional work.
