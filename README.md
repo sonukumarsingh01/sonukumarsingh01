@@ -7,11 +7,11 @@
 </p>
 
 I'm a Software Engineer at **TitanEd**, working with the product and backend teams on
-Open edX learning platforms and their AI features for 4+ client platforms: **300+ pull requests across 35+ repositories in 18 months.**
+Open edX learning platforms and their AI features including custom solutions through TitanEd Services: **300+ pull requests across 35+ repositories in 18 months.**
 
 ## 🛠️ What I work on at TitanEd
 
-> The code is private to TitanEd and its clients, so here's what each piece does and how it's built.
+> The code is private to TitanEd, so here's what each piece does and how it's built.
 
 | | What | How |
 |---|---|---|
@@ -23,7 +23,7 @@ Open edX learning platforms and their AI features for 4+ client platforms: **300
 | 🧩 | **Shared React + TypeScript component library** used across 9 apps | TypeScript, SCSS, dynamic theming |
 
 **How we work:** extend, don't fork. Everything above ships through Frontend Plugin Framework
-slots, Tutor plugins and a shared theming layer, so clients upgrade Open edX without losing customisations.
+slots, Tutor plugins and a shared theming layer, so institutions upgrade Open edX without losing customisations.
 
 ## 🧰 Tech I use
 
@@ -35,16 +35,16 @@ slots, Tutor plugins and a shared theming layer, so clients upgrade Open edX wit
 
 ## 📌 Featured projects
 
-> The source code of these products is private to TitanEd and its clients, and client names are kept confidential. Each repo below is a **project showcase**: the
+> The source code of these products is private to TitanEd. Each repo below is a **project showcase**: the
 > business problem, my contribution and how it was built.
 
-| Project (my work: showcase) | Client | What it shows |
+| Project (my work: showcase) | Delivered through | What it shows |
 |---|---|---|
 | [🚀 TitanEd Orbit](https://github.com/sonukumarsingh01/titaned-orbit-learning-platform) | TitanEd | Studio and LMS frontend across 11 apps, the branding and theming system, instructor dashboard, Verawood upgrade |
 | [🤖 TitanAI](https://github.com/sonukumarsingh01/titanai-learning-assistant) | TitanEd | The AI assistant inside TitanEd Orbit: interactive answers, AI course creation, agentic AI |
-| [🔬 STEM-education learning platform](https://github.com/sonukumarsingh01/stem-education-learning-platform) | Confidential (education organisation) | A marketing website, live classes, a leaderboard and access control |
-| [⭐ Branded LMS with e-commerce](https://github.com/sonukumarsingh01/branded-lms-ecommerce) | Confidential (e-learning company) | A fully branded LMS and Studio with online course sales |
-| [🌏 Multi-organisation training platform](https://github.com/sonukumarsingh01/multi-org-training-platform) | Confidential (international training network) | A multi-organisation, role-based training portal |
+| [🔬 STEM-education learning platform](https://github.com/sonukumarsingh01/stem-education-learning-platform) | TitanEd Services | A marketing website, live classes, a leaderboard and access control |
+| [⭐ Branded LMS with e-commerce](https://github.com/sonukumarsingh01/branded-lms-ecommerce) | TitanEd Services | A fully branded LMS and Studio with online course sales |
+| [🌏 Multi-organisation training platform](https://github.com/sonukumarsingh01/multi-org-training-platform) | TitanEd Services | A multi-organisation, role-based training portal |
 
 ## 💼 Internship project
 
