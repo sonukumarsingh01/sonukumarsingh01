@@ -15,15 +15,15 @@ Open edX learning platforms and their AI features for 4+ client platforms: **300
 
 | | What | How |
 |---|---|---|
-| 🤖 | **AI Assistant for LMS and Studio (CMS)**: a plug-and-play AI that helps learners understand, practise and plan, and helps course teams and admins with forum support and AI reports. Installs on any Open edX | React, Open edX plugin slots, streaming APIs, design tokens, 4 languages incl. right-to-left, Jest |
+| 🤖 | **TitanAI, the AI assistant in Studio and the LMS**: helps learners understand, practise and plan, helps educators build courses, and gives course teams forum support and AI reports | React, Open edX plugin slots, streaming APIs, 4 languages incl. right-to-left, Jest |
 | 🎥 | **Live classes inside the LMS**: schedule, join, record and track attendance without leaving the platform | React, Redux, video-meeting integration |
 | 🏆 | **Gamification and subscriptions**: badges, points, leaderboard; courses sold through e-commerce | React, Redux, plugin slots |
-| 🎨 | **11 micro-frontends upgraded to Open edX Verawood**, all themed with shared design tokens | Paragon design tokens, SCSS, Tutor plugins |
+| 🎨 | **Branding and theming system for TitanEd Orbit**: each institution's colours, fonts and themes, light and dark, across all 11 apps upgraded to Open edX Verawood | Paragon, SCSS, Tutor plugins, automated accessibility checks |
 | 🛡️ | **Role-based admin portal** for a multi-organisation training platform | React, frontend-platform, role-aware routing |
 | 🧩 | **Shared React + TypeScript component library** used across 9 apps | TypeScript, SCSS, dynamic theming |
 
 **How we work:** extend, don't fork. Everything above ships through Frontend Plugin Framework
-slots, Tutor plugins and design tokens, so clients upgrade Open edX without losing customisations.
+slots, Tutor plugins and a shared theming layer, so clients upgrade Open edX without losing customisations.
 
 ## 🧰 Tech I use
 
@@ -40,9 +40,8 @@ slots, Tutor plugins and design tokens, so clients upgrade Open edX without losi
 
 | Project (my work: showcase) | Client | What it shows |
 |---|---|---|
-| [🚀 TELS SaaS learning platform](https://github.com/sonukumarsingh01/tels-saas-learning-platform) | TitanEd | Custom UI of a subscription SaaS LMS: templates, AI assistant, instructor dashboard |
-| [🤖 TELS AI for Open edX](https://github.com/sonukumarsingh01/tels-ai-openedx-assistant) | TitanEd | A plug-and-play AI assistant for LMS and Studio |
-| [🎨 No-code design-token theming](https://github.com/sonukumarsingh01/openedx-design-token-theming) | TitanEd | Rebrand everything from the admin panel without code |
+| [🚀 TitanEd Orbit (formerly TELS)](https://github.com/sonukumarsingh01/titaned-orbit-learning-platform) | TitanEd | Studio and LMS frontend across 11 apps, the branding and theming system, instructor dashboard, Verawood upgrade |
+| [🤖 TitanAI (formerly TELS AI)](https://github.com/sonukumarsingh01/titanai-learning-assistant) | TitanEd | The AI assistant inside TitanEd Orbit: interactive answers, AI course creation, agentic AI |
 | [🔬 STEM-education learning platform](https://github.com/sonukumarsingh01/stem-education-learning-platform) | Confidential (education organisation) | A marketing website, live classes, a leaderboard and access control |
 | [⭐ Branded LMS with e-commerce](https://github.com/sonukumarsingh01/branded-lms-ecommerce) | Confidential (e-learning company) | A fully branded LMS and Studio with online course sales |
 | [🌏 Multi-organisation training platform](https://github.com/sonukumarsingh01/multi-org-training-platform) | Confidential (international training network) | A multi-organisation, role-based training portal |
