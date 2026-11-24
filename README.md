@@ -40,8 +40,8 @@ slots, Tutor plugins and a shared theming layer, so clients upgrade Open edX wit
 
 | Project (my work: showcase) | Client | What it shows |
 |---|---|---|
-| [🚀 TitanEd Orbit (formerly TELS)](https://github.com/sonukumarsingh01/titaned-orbit-learning-platform) | TitanEd | Studio and LMS frontend across 11 apps, the branding and theming system, instructor dashboard, Verawood upgrade |
-| [🤖 TitanAI (formerly TELS AI)](https://github.com/sonukumarsingh01/titanai-learning-assistant) | TitanEd | The AI assistant inside TitanEd Orbit: interactive answers, AI course creation, agentic AI |
+| [🚀 TitanEd Orbit](https://github.com/sonukumarsingh01/titaned-orbit-learning-platform) | TitanEd | Studio and LMS frontend across 11 apps, the branding and theming system, instructor dashboard, Verawood upgrade |
+| [🤖 TitanAI](https://github.com/sonukumarsingh01/titanai-learning-assistant) | TitanEd | The AI assistant inside TitanEd Orbit: interactive answers, AI course creation, agentic AI |
 | [🔬 STEM-education learning platform](https://github.com/sonukumarsingh01/stem-education-learning-platform) | Confidential (education organisation) | A marketing website, live classes, a leaderboard and access control |
 | [⭐ Branded LMS with e-commerce](https://github.com/sonukumarsingh01/branded-lms-ecommerce) | Confidential (e-learning company) | A fully branded LMS and Studio with online course sales |
 | [🌏 Multi-organisation training platform](https://github.com/sonukumarsingh01/multi-org-training-platform) | Confidential (international training network) | A multi-organisation, role-based training portal |
